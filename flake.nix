@@ -123,6 +123,7 @@ rec {
                 xhtml1
                 which
                 linkchecker
+                npm-check-updates
               ];
 
             preBuild = ''
